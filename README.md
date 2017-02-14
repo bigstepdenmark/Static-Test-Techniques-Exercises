@@ -27,4 +27,4 @@ _Klik på screenshot for fuld størrelse_
 
 ### 2. Peer Review of your Triangle program
 
-Jeg har byttet kode med Mazlum Dogan Sert [github link](https://github.com/Mazlumsert1/Week-1-Test-Execise)
+Jeg har byttet kode med [Mazlum Dogan Sert](https://github.com/Mazlumsert1/Week-1-Test-Execise)
