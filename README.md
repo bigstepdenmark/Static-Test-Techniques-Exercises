@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+# Static Test Techniques Exercise
+
+### Static Code Analysis of Triangle program
+
+- 1.b) Check coding standards in your Triangle program
+
+**Klik på billederne for at se deres fulde størrelser**
+
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.49.06.png)
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.50.02.png)
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.50.33.png)
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.51.09.png)
+
+- 1.c) Calculate central metrics in your Triangle program
+
+**Klik på billederne for at se deres fulde størrelser**
 
 You can use the [editor on GitHub](https://github.com/bigstepdenmark/Static-Test-Techniques-Exercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
