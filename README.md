@@ -15,6 +15,9 @@
 
 **Klik på billederne for at se deres fulde størrelser**
 
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2014.50.15.png)
+
+
 You can use the [editor on GitHub](https://github.com/bigstepdenmark/Static-Test-Techniques-Exercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
