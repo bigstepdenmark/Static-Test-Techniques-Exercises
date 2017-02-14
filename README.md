@@ -62,7 +62,7 @@ public boolean isAValidTriangle(int a, int b, int c){
 
 TriangleMain.class
 
-_Du ville spare nogle linjer, hvis du havde lavet en loop :)_
+_Du ville spare linjer, hvis du havde lavet en loop :)_
 ```
         System.out.println("Side 1:");
         int a = scan.nextInt();
