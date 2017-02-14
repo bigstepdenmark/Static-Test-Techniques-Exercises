@@ -78,7 +78,7 @@ _Du ville spare linjer, hvis du havde lavet en loop :)_
 
 - 3.a) Create a coding standard document that describes the best practices and code conventions that you find most important for a team to follow.
 
-For at sikre en udviklingsprojekt sammen med et team, er der nogle standarder der skal opfølges.
+**For at sikre en udviklingsprojekt sammen med et team, er der nogle standarder der skal opfølges.**
 
 **1. Kode kommentarer**
 
@@ -86,7 +86,7 @@ _Det er vigtigt at udvikler skriver kommentarer til metoder. Kommentarer skal st
 
 **2. Navngivning**
 
-Navngivning er yderst vigtig og skal være meningsfulde. I Java skal man som standard følge Java Coding konvention, som er
+_Navngivning er yderst vigtig og skal være meningsfulde. I Java skal man som standard følge Java Coding konvention, som er_
 
 _Klasser navne skal starte med stor bokstav og følgende camelCase._
 
@@ -94,4 +94,4 @@ _Både Metoder og attributter skal starte med små bokstav og følgende camelCas
 
 **3. Fejlhåndtering**
 
-I Java vil compileren straks fange exceptions, derfor er det vigtigt at udvikler håndtere fejl ved at anvende try & catch blokke. 
+_I Java vil compileren straks fange exceptions, derfor er det vigtigt at udvikler håndtere fejl ved at anvende try & catch blokke._
