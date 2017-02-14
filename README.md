@@ -35,7 +35,7 @@ Du kunne godt skrive mere kommentarer til dine metoder. Dine controller metoder,
 Triangle.class 
 
 _Private attribute :)_
-```
+```java
 public class Triangle {
 
     int a,b,c;
@@ -50,7 +50,7 @@ public class Triangle {
 TriangleController.class
 
 _Burde de ikke være Private metoder ?_
-```
+```java
 public boolean isAValidTriangle(int a, int b, int c){
        return (a+b>c && a+c>b && b+c>a);
    }
@@ -63,7 +63,7 @@ public boolean isAValidTriangle(int a, int b, int c){
 TriangleMain.class
 
 _Du ville spare linjer, hvis du havde lavet en loop :)_
-```
+```java
         System.out.println("Side 1:");
         int a = scan.nextInt();
         System.out.println("Side 2:");
@@ -72,3 +72,26 @@ _Du ville spare linjer, hvis du havde lavet en loop :)_
         int c = scan.nextInt();
 ```
    
+---
+
+### 3. Coding Standard Document
+
+- 3.a) Create a coding standard document that describes the best practices and code conventions that you find most important for a team to follow.
+
+For at sikre en udviklingsprojekt sammen med et team, er der nogle standarder der skal opfølges.
+
+**1. Kode kommentarer**
+
+_Det er vigtigt at udvikler skriver kommentarer til metoder. Kommentarer skal stå ovenfor oprationen, altså på sin egen linje. Kommentarerne skal holdes korte, men stadig nemt at forstå._
+
+**2. Navngivning**
+
+Navngivning er yderst vigtig og skal være meningsfulde. I Java skal man som standard følge Java Coding konvention, som er
+
+_Klasser navne skal starte med stor bokstav og følgende camelCase._
+
+_Både Metoder og attributter skal starte med små bokstav og følgende camelCase._
+
+**3. Fejlhåndtering**
+
+I Java vil compileren straks fange exceptions, derfor er det vigtigt at udvikler håndtere fejl ved at anvende try & catch blokke. 
