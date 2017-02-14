@@ -86,11 +86,7 @@ _Det er vigtigt at udvikler skriver kommentarer til metoder. Kommentarer skal st
 
 **2. Navngivning**
 
-_Navngivning er yderst vigtig og skal være meningsfulde. I Java skal man som standard følge Java Coding konvention, som er_
-
-_Klasser navne skal starte med stor bokstav og følgende camelCase._
-
-_Både Metoder og attributter skal starte med små bokstav og følgende camelCase._
+_Navngivning er yderst vigtig og skal være meningsfulde. I Java skal man som standard følge Java Coding konvention, som er at klasse navne skal starte med stor bokstav og følgende camelCase, og både metoder og attributter skal starte med små bokstav og følgende camelCase._
 
 **3. Fejlhåndtering**
 
