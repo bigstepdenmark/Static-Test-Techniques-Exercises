@@ -23,3 +23,8 @@ _Klik på screenshot for fuld størrelse_
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/CC%20by%20method.png)
 
+---
+
+### 2. Peer Review of your Triangle program
+
+Jeg har byttet kode med Mazlum Dogan Sert [github link](https://github.com/Mazlumsert1/Week-1-Test-Execise)
