@@ -6,7 +6,7 @@
 
 I følge min IDE, har jeg følgende warnings, som javadoc, ubrugte metoder (setter metoderne i Triangle), og andre best practices.
 
-**Klik på billederne for at se deres fulde størrelser**
+_Klik på screenshot for fuld størrelse_
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2015.48.20.png)
 
