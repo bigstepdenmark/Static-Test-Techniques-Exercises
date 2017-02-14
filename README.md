@@ -1,6 +1,6 @@
 # Static Test Techniques Exercise
 
-### Static Code Analysis of Triangle program
+### 1. Static Code Analysis of Triangle program
 
 - 1.b) Check coding standards in your Triangle program
 
