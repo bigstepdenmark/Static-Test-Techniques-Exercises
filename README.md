@@ -1,5 +1,8 @@
 # Static Test Techniques Exercise
 
+Triangle opgave: [Klik her](https://github.com/bigstepdenmark/TestExercise1-Triangle)
+---
+
 ### 1. Static Code Analysis of Triangle program
 
 - 1.b) Check coding standards in your Triangle program
