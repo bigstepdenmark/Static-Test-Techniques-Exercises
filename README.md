@@ -15,3 +15,6 @@ _Klik på screenshot for fuld størrelse_
 _Klik på screenshot for fuld størrelse_
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2014.50.15.png)
+
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/CC%20by%20method.png)
+
