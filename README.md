@@ -10,9 +10,11 @@ _Klik på screenshot for fuld størrelse_
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2015.48.20.png)
 
+---
+
 - 1.c) Calculate central metrics in your Triangle program
 
-**Klik på billederne for at se deres fulde størrelser**
+_Klik på screenshot for fuld størrelse_
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2014.50.15.png)
 
