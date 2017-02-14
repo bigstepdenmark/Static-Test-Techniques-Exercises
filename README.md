@@ -4,6 +4,8 @@
 
 - 1.b) Check coding standards in your Triangle program
 
+I følge min IDE, har jeg følgende warnings, som javadoc, ubrugte metoder (setter metoderne i Triangle), og andre best practices.
+
 **Klik på billederne for at se deres fulde størrelser**
 
 ![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.49.06.png)
