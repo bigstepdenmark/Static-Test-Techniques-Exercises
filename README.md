@@ -8,10 +8,7 @@ I følge min IDE, har jeg følgende warnings, som javadoc, ubrugte metoder (sett
 
 **Klik på billederne for at se deres fulde størrelser**
 
-![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.49.06.png)
-![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.50.02.png)
-![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.50.33.png)
-![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2013.51.09.png)
+![alt tag](https://raw.githubusercontent.com/bigstepdenmark/Static-Test-Techniques-Exercises/master/Skærmbillede%202017-02-14%20kl.%2015.48.20.png)
 
 - 1.c) Calculate central metrics in your Triangle program
 
